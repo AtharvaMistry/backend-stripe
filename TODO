@@ -1,0 +1,2 @@
+☐ cors : middleware/ because I am going to make request to the stripe.
+☐ dotenv : to manage variable and secret key
